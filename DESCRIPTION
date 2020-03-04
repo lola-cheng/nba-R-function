@@ -1,0 +1,13 @@
+Package: nba
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Fanling",
+           family = "Cheng",
+           role = c("aut", "cre"),
+           email = "fc2625@columbia.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Returns the most games played, the oldest player and the correlation matrix of all numeric variables in a certain year the user input.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
